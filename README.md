@@ -1,1 +1,3 @@
-# springseason
+# maven-project
+
+Simple Maven Project
